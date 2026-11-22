@@ -1,0 +1,802 @@
+{
+ "fields": [
+  {
+   "key": "t001",
+   "section": "page",
+   "tag": "a",
+   "value": "Skip to content"
+  },
+  {
+   "key": "t002",
+   "section": "page",
+   "tag": "a",
+   "value": "Our pathways"
+  },
+  {
+   "key": "t003",
+   "section": "page",
+   "tag": "a",
+   "value": "Age groups"
+  },
+  {
+   "key": "t004",
+   "section": "page",
+   "tag": "a",
+   "value": "How it works"
+  },
+  {
+   "key": "t005",
+   "section": "page",
+   "tag": "a",
+   "value": "Sessions"
+  },
+  {
+   "key": "t006",
+   "section": "page",
+   "tag": "a",
+   "value": "FAQs"
+  },
+  {
+   "key": "t007",
+   "section": "home",
+   "tag": "p",
+   "value": "Live online learning that makes space for curiosity, expression and new skills — with a facilitator to guide the way."
+  },
+  {
+   "key": "t008",
+   "section": "home",
+   "tag": "b",
+   "value": "Encouraged every step."
+  },
+  {
+   "key": "t009",
+   "section": "home",
+   "tag": "a",
+   "value": "Explore ages 5–14 ↗"
+  },
+  {
+   "key": "t010",
+   "section": "main",
+   "tag": "span",
+   "value": "Curiosity welcomed"
+  },
+  {
+   "key": "t011",
+   "section": "main",
+   "tag": "span",
+   "value": "Ideas encouraged"
+  },
+  {
+   "key": "t012",
+   "section": "main",
+   "tag": "span",
+   "value": "Progress noticed"
+  },
+  {
+   "key": "t013",
+   "section": "main",
+   "tag": "span",
+   "value": "Families included"
+  },
+  {
+   "key": "t014",
+   "section": "about",
+   "tag": "p",
+   "value": "Every learner brings a different starting point. At EduSensory Online Academy, we are building a space where children can practise, ask questions and develop confidence through purposeful learning."
+  },
+  {
+   "key": "t015",
+   "section": "about",
+   "tag": "p",
+   "value": "Our planned membership-based programme brings together three pathways, with learning adapted for three age groups. This website is for parents and carers exploring the Academy."
+  },
+  {
+   "key": "t016",
+   "section": "pathways",
+   "tag": "span",
+   "value": "LANGUAGE & CONNECTION"
+  },
+  {
+   "key": "t017",
+   "section": "pathways",
+   "tag": "h3",
+   "value": "French"
+  },
+  {
+   "key": "t018",
+   "section": "pathways",
+   "tag": "p",
+   "value": "Build familiarity with French through listening, speaking, vocabulary and age-appropriate interaction."
+  },
+  {
+   "key": "t019",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Hear and practise new words"
+  },
+  {
+   "key": "t020",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Join guided conversations"
+  },
+  {
+   "key": "t021",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Grow confidence in expression"
+  },
+  {
+   "key": "t022",
+   "section": "pathways",
+   "tag": "span",
+   "value": "VOICE & EXPRESSION"
+  },
+  {
+   "key": "t023",
+   "section": "pathways",
+   "tag": "p",
+   "value": "Develop reading and writing from each learner’s starting point, with space to understand, express and improve."
+  },
+  {
+   "key": "t024",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Read for meaning"
+  },
+  {
+   "key": "t025",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Explore words and ideas"
+  },
+  {
+   "key": "t026",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Write with purpose"
+  },
+  {
+   "key": "t027",
+   "section": "pathways",
+   "tag": "span",
+   "value": "CREATIVITY & DISCOVERY"
+  },
+  {
+   "key": "t028",
+   "section": "pathways",
+   "tag": "h3",
+   "value": "Digital Creator"
+  },
+  {
+   "key": "t029",
+   "section": "pathways",
+   "tag": "p",
+   "value": "Explore digital skills across three terms, with age-appropriate activities and adult guidance."
+  },
+  {
+   "key": "t030",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Term 1 · Digital Literacy"
+  },
+  {
+   "key": "t031",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Term 2 · Web Design & Coding"
+  },
+  {
+   "key": "t032",
+   "section": "pathways",
+   "tag": "li",
+   "value": "Term 3 · AI for Young Learners"
+  },
+  {
+   "key": "t033",
+   "section": "pathways",
+   "tag": "p",
+   "value": "Activities and tools are subject to curriculum review, learner readiness and parent permissions."
+  },
+  {
+   "key": "t034",
+   "section": "age0",
+   "tag": "small",
+   "value": "5–7 YEARS"
+  },
+  {
+   "key": "t035",
+   "section": "age1",
+   "tag": "small",
+   "value": "8–10 YEARS"
+  },
+  {
+   "key": "t036",
+   "section": "age2",
+   "tag": "small",
+   "value": "11–14 YEARS"
+  },
+  {
+   "key": "t037",
+   "section": "agepanel",
+   "tag": "p",
+   "value": "A gentle introduction to new language, early literacy and digital ideas through guided, age-appropriate exploration."
+  },
+  {
+   "key": "t038",
+   "section": "agepoints",
+   "tag": "li",
+   "value": "Concrete examples, repetition and guided practice"
+  },
+  {
+   "key": "t039",
+   "section": "agepoints",
+   "tag": "li",
+   "value": "Opportunities to speak, notice and try"
+  },
+  {
+   "key": "t040",
+   "section": "agepoints",
+   "tag": "li",
+   "value": "Parent or carer support with access and routines"
+  },
+  {
+   "key": "t041",
+   "section": "how",
+   "tag": "h3",
+   "value": "Explore a pathway"
+  },
+  {
+   "key": "t042",
+   "section": "how",
+   "tag": "p",
+   "value": "Consider your child’s interests, age and the areas in which they would benefit from support."
+  },
+  {
+   "key": "t043",
+   "section": "how",
+   "tag": "h3",
+   "value": "Understand their start"
+  },
+  {
+   "key": "t044",
+   "section": "how",
+   "tag": "p",
+   "value": "Planned baseline activities help facilitators understand current skills and support needs."
+  },
+  {
+   "key": "t045",
+   "section": "how",
+   "tag": "h3",
+   "value": "Learn together, live"
+  },
+  {
+   "key": "t046",
+   "section": "how",
+   "tag": "p",
+   "value": "Proposed: two 60-minute live sessions per pathway weekly, scheduled within weekday 6–8 pm and weekend 2–8 pm windows (GMT). Exact timetable to follow."
+  },
+  {
+   "key": "t047",
+   "section": "how",
+   "tag": "h3",
+   "value": "Notice the progress"
+  },
+  {
+   "key": "t048",
+   "section": "how",
+   "tag": "p",
+   "value": "Work samples, observations and assessments are intended to inform next steps and parent updates."
+  },
+  {
+   "key": "t049",
+   "section": "schedule",
+   "tag": "h3",
+   "value": "6:00–8:00 pm"
+  },
+  {
+   "key": "t050",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Sessions will be scheduled within this window on weekdays."
+  },
+  {
+   "key": "t051",
+   "section": "schedule",
+   "tag": "h3",
+   "value": "2:00–8:00 pm"
+  },
+  {
+   "key": "t052",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Sessions will be scheduled within this window on weekends."
+  },
+  {
+   "key": "t053",
+   "section": "schedule",
+   "tag": "h3",
+   "value": "Your cohort timetable"
+  },
+  {
+   "key": "t054",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Exact days and times for each pathway and age group will be shared later. These windows are not lesson durations."
+  },
+  {
+   "key": "t055",
+   "section": "schedule",
+   "tag": "span",
+   "value": "per pathway / month"
+  },
+  {
+   "key": "t056",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Monthly fees must be paid in advance, before the beginning of the month. Joining the waiting list is free; enrolment and payment instructions will be shared separately."
+  },
+  {
+   "key": "t057",
+   "section": "schedule",
+   "tag": "h3",
+   "value": "Choose a package that fits."
+  },
+  {
+   "key": "t058",
+   "section": "schedule",
+   "tag": "p",
+   "value": "All prices are per learner. Select a package when enrolment opens; joining the waiting list is free."
+  },
+  {
+   "key": "t059",
+   "section": "schedule",
+   "tag": "h4",
+   "value": "GHS 680"
+  },
+  {
+   "key": "t060",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Four-month term package"
+  },
+  {
+   "key": "t061",
+   "section": "schedule",
+   "tag": "span",
+   "value": "Standard total: GHS 720"
+  },
+  {
+   "key": "t062",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Choose French, Confident Reading & Writing, or Digital Creator for one learner."
+  },
+  {
+   "key": "t063",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Pay the full GHS 680 before the term begins."
+  },
+  {
+   "key": "t064",
+   "section": "schedule",
+   "tag": "h4",
+   "value": "GHS 500"
+  },
+  {
+   "key": "t065",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Per month"
+  },
+  {
+   "key": "t066",
+   "section": "schedule",
+   "tag": "span",
+   "value": "Standard total: GHS 540/month"
+  },
+  {
+   "key": "t067",
+   "section": "schedule",
+   "tag": "p",
+   "value": "French, Confident Reading & Writing, and Digital Creator for one learner."
+  },
+  {
+   "key": "t068",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Pay GHS 500 before each learning month begins."
+  },
+  {
+   "key": "t069",
+   "section": "schedule",
+   "tag": "h4",
+   "value": "GHS 1,900"
+  },
+  {
+   "key": "t070",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Four-month term package"
+  },
+  {
+   "key": "t071",
+   "section": "schedule",
+   "tag": "span",
+   "value": "Standard total: GHS 2,160"
+  },
+  {
+   "key": "t072",
+   "section": "schedule",
+   "tag": "p",
+   "value": "All three pathways for one learner across a four-month term."
+  },
+  {
+   "key": "t073",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Pay the full GHS 1,900 before the term begins."
+  },
+  {
+   "key": "t074",
+   "section": "schedule",
+   "tag": "p",
+   "value": "Choose one applicable offer; package discounts cannot be combined. Places and the final cohort timetable are confirmed separately. This website does not collect payments. Payment instructions will be shared during enrolment."
+  },
+  {
+   "key": "t075",
+   "section": "main",
+   "tag": "p",
+   "value": "Before joining, families will receive the confirmed schedule, fees, technology requirements and onboarding information. We will also clarify the support a learner may need at home."
+  },
+  {
+   "key": "t076",
+   "section": "main",
+   "tag": "span",
+   "value": "Clear expectations"
+  },
+  {
+   "key": "t077",
+   "section": "main",
+   "tag": "span",
+   "value": "Starting-point awareness"
+  },
+  {
+   "key": "t078",
+   "section": "main",
+   "tag": "span",
+   "value": "Purposeful parent updates"
+  },
+  {
+   "key": "t079",
+   "section": "questions",
+   "tag": "p",
+   "value": "January 2027 is the planned launch. Exact start dates, term dates and holidays are awaiting confirmation. December trial lessons and baseline activities are planned, subject to final arrangements."
+  },
+  {
+   "key": "t080",
+   "section": "questions",
+   "tag": "p",
+   "value": "The planned programme serves learners aged 5–14 across Little Explorers (5–7), Creative Thinkers (8–10) and Young Innovators (11–14). Parents and carers join the waiting list and manage enrolment. Joining the list is an expression of interest, not a confirmed place."
+  },
+  {
+   "key": "t081",
+   "section": "questions",
+   "tag": "p",
+   "value": "Sessions will be scheduled within these Ghana time (GMT) windows: weekdays, 6:00–8:00 pm; weekends, 2:00–8:00 pm. These are scheduling windows, not the length of a single lesson. Exact pathway and age-group days and times will be shared later. The proposed format remains two 60-minute live sessions per pathway each week."
+  },
+  {
+   "key": "t082",
+   "section": "questions",
+   "tag": "p",
+   "value": "Families will need a suitable device, internet connection and a supportive place to participate. Device, browser and software requirements depend on the pathway and age group and will be confirmed before enrolment. Please wait for guidance before buying equipment or creating tool accounts."
+  },
+  {
+   "key": "t083",
+   "section": "questions",
+   "tag": "p",
+   "value": "Each pathway costs GHS 180 per learner per month, payable before the month begins. Approved packages are GHS 680 for one pathway over a four-month term; GHS 500 per month for all three pathways; or GHS 1,900 for all three over a four-month term. Four-month packages are paid in full before the term begins. Offers are per learner and cannot be combined. Joining the waiting list is free and does not reserve a place. This site does not collect payments. For enquiries, contact +233 59 101 7511."
+  },
+  {
+   "key": "t084",
+   "section": "questions",
+   "tag": "p",
+   "value": "AI for Young Learners is the planned Term 3 focus. Activities, tools, account requirements and permissions are subject to academic and safeguarding review. Children will not be asked through this site to create AI accounts. Tool age rules and parent permissions must be checked before use."
+  },
+  {
+   "key": "t085",
+   "section": "questions",
+   "tag": "p",
+   "value": "This information website is for parents and carers. It does not provide a child login or teaching platform. Confirmed joining instructions for live lessons and any approved tools will be provided separately."
+  },
+  {
+   "key": "t086",
+   "section": "waiting-list-process",
+   "tag": "h3",
+   "value": "Share your interests"
+  },
+  {
+   "key": "t087",
+   "section": "waiting-list-process",
+   "tag": "p",
+   "value": "Choose the age groups and pathways you’d like to hear about. No payment is needed."
+  },
+  {
+   "key": "t088",
+   "section": "waiting-list-process",
+   "tag": "h3",
+   "value": "Hear from the Academy"
+  },
+  {
+   "key": "t089",
+   "section": "waiting-list-process",
+   "tag": "p",
+   "value": "The team reviews the waiting list and follows up when launch arrangements are confirmed."
+  },
+  {
+   "key": "t090",
+   "section": "waiting-list-process",
+   "tag": "h3",
+   "value": "Decide about enrolment"
+  },
+  {
+   "key": "t091",
+   "section": "waiting-list-process",
+   "tag": "p",
+   "value": "Review the dates, fees and available places before deciding whether to apply."
+  },
+  {
+   "key": "t092",
+   "section": "enquiry",
+   "tag": "small",
+   "value": "Free expression of interest · No payment or place guaranteed"
+  },
+  {
+   "key": "t093",
+   "section": "page",
+   "tag": "a",
+   "value": "Our pathways"
+  },
+  {
+   "key": "t094",
+   "section": "page",
+   "tag": "a",
+   "value": "Age groups"
+  },
+  {
+   "key": "t095",
+   "section": "page",
+   "tag": "a",
+   "value": "FAQs"
+  },
+  {
+   "key": "t096",
+   "section": "page",
+   "tag": "p",
+   "value": "Information for parents & carers."
+  },
+  {
+   "key": "t097",
+   "section": "page",
+   "tag": "a",
+   "value": "+233 59 101 7511"
+  },
+  {
+   "key": "t098",
+   "section": "page",
+   "tag": "a",
+   "value": "WhatsApp the Academy ↗"
+  },
+  {
+   "key": "t099",
+   "section": "page",
+   "tag": "button",
+   "value": "Privacy & waiting list ↗"
+  },
+  {
+   "key": "t100",
+   "section": "page",
+   "tag": "p",
+   "value": "Learner images are AI-generated illustrations of learning experiences, not photographs of enrolled Academy learners."
+  },
+  {
+   "key": "t101",
+   "section": "page",
+   "tag": "span",
+   "value": "Growing minds. Building skills. Creating possibilities."
+  },
+  {
+   "key": "t102",
+   "section": "waitlist-entry",
+   "tag": "p",
+   "value": "Tell us a little about your interests. Joining is free and does not confirm enrolment, fees or a place."
+  },
+  {
+   "key": "t103",
+   "section": "waitlist-form",
+   "tag": "small",
+   "value": "(optional)"
+  },
+  {
+   "key": "t104",
+   "section": "waitlist-form",
+   "tag": "small",
+   "value": "(optional)"
+  },
+  {
+   "key": "t105",
+   "section": "waitlist-form",
+   "tag": "small",
+   "value": "Select all that apply. Please do not enter a child’s name or date of birth."
+  },
+  {
+   "key": "t106",
+   "section": "waitlist-form",
+   "tag": "span",
+   "value": "5–7"
+  },
+  {
+   "key": "t107",
+   "section": "waitlist-form",
+   "tag": "span",
+   "value": "8–10"
+  },
+  {
+   "key": "t108",
+   "section": "waitlist-form",
+   "tag": "span",
+   "value": "11–14"
+  },
+  {
+   "key": "t109",
+   "section": "waitlist-form",
+   "tag": "small",
+   "value": "Select one or more."
+  },
+  {
+   "key": "t110",
+   "section": "waitlist-form",
+   "tag": "label",
+   "value": "Preferred contact method"
+  },
+  {
+   "key": "t111",
+   "section": "waitlist-form",
+   "tag": "label",
+   "value": "Website"
+  },
+  {
+   "key": "t112",
+   "section": "waitlist-form",
+   "tag": "button",
+   "value": "Read the waiting-list privacy notice"
+  },
+  {
+   "key": "t113",
+   "section": "waitlist-form",
+   "tag": "button",
+   "value": "Preparing form…"
+  },
+  {
+   "key": "t114",
+   "section": "waitlist-form",
+   "tag": "a",
+   "value": "+233 59 101 7511"
+  },
+  {
+   "key": "t115",
+   "section": "waitlist-success",
+   "tag": "p",
+   "value": "Your waiting-list interest has been recorded. Joining the list does not reserve a place or enrol a learner."
+  },
+  {
+   "key": "t116",
+   "section": "waitlist-success",
+   "tag": "b",
+   "value": "We review your interests."
+  },
+  {
+   "key": "t117",
+   "section": "waitlist-success",
+   "tag": "span",
+   "value": "The Academy team can match age groups and pathways to its launch planning."
+  },
+  {
+   "key": "t118",
+   "section": "waitlist-success",
+   "tag": "b",
+   "value": "We follow up when details are ready."
+  },
+  {
+   "key": "t119",
+   "section": "waitlist-success",
+   "tag": "span",
+   "value": "Confirmed dates, fees, availability and joining arrangements will be shared separately."
+  },
+  {
+   "key": "t120",
+   "section": "waitlist-success",
+   "tag": "b",
+   "value": "You decide whether to apply."
+  },
+  {
+   "key": "t121",
+   "section": "waitlist-success",
+   "tag": "span",
+   "value": "There is no payment or commitment at this stage."
+  },
+  {
+   "key": "t122",
+   "section": "waitlist-success",
+   "tag": "p",
+   "value": "No automated email or WhatsApp message has been sent."
+  },
+  {
+   "key": "t123",
+   "section": "waitlist-success",
+   "tag": "button",
+   "value": "Back to exploring"
+  },
+  {
+   "key": "t124",
+   "section": "termcontrols",
+   "tag": "button",
+   "value": "Term 1"
+  },
+  {
+   "key": "t125",
+   "section": "termcontrols",
+   "tag": "button",
+   "value": "Term 2"
+  },
+  {
+   "key": "t126",
+   "section": "termcontrols",
+   "tag": "button",
+   "value": "Term 3"
+  },
+  {
+   "key": "t127",
+   "section": "pathdialog",
+   "tag": "p",
+   "value": "These examples illustrate the intended direction. Final activities depend on curriculum approval and learner readiness."
+  },
+  {
+   "key": "t128",
+   "section": "privacydialog",
+   "tag": "h2",
+   "value": "Waiting-list privacy."
+  },
+  {
+   "key": "t129",
+   "section": "privacydialog",
+   "tag": "p",
+   "value": "This site is for parents and carers aged 18+. EduSensory stores the parent/carer name, email, optional phone and country, age-group and pathway interests, preferred contact method and a record of consent submitted through the waiting-list form."
+  },
+  {
+   "key": "t130",
+   "section": "privacydialog",
+   "tag": "p",
+   "value": "The Academy team uses these details to manage the interest list and follow up about launch and enrolment arrangements. Joining is optional and does not create a learner account, confirm a place or authorise payment. Please do not submit children’s names, dates of birth or sensitive personal information."
+  },
+  {
+   "key": "t131",
+   "section": "privacydialog",
+   "tag": "a",
+   "value": "+233 59 101 7511"
+  },
+  {
+   "key": "t132",
+   "section": "privacydialog",
+   "tag": "a",
+   "value": "WhatsApp"
+  },
+  {
+   "key": "t133",
+   "section": "privacydialog",
+   "tag": "p",
+   "value": "The site uses technical checks to limit automated submissions. A short-lived hashed network identifier may be used for abuse prevention; raw network addresses are not stored in the waiting list. The hosting provider may process technical access information under its own terms. No advertising trackers have been added by EduSensory."
+  }
+ ]
+}
